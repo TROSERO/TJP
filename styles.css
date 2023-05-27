@@ -1,3 +1,42 @@
 * {
-    font-family: cursive;
+    box-sizing: border-box;
 }
+body {
+    text-align: center;
+    font-size: 18px;
+    font-family: cursive;
+
+}
+
+ol {
+    display: table;
+    margin: auto;
+}
+
+hr {
+    margin: 0 25%;
+}
+
+.home {
+    margin: 0 35%;
+}
+
+
+header, section, footer {
+    margin: 25px 0;
+}
+
+button {
+    background-color: blue;
+    color: rgb(221, 221, 243);
+    border-radius: 20px;
+    border:  blue solid 1px;
+    font-size: 12px;
+    padding: 5px 8px;
+}
+
+.table {
+    color: rgb(221, 221, 243);
+    text-decoration: none;
+}
+
